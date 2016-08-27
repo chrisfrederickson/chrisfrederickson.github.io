@@ -1,0 +1,20 @@
+# Build settings
+markdown: kramdown
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Christopher Frederickson
+tagline:          'My Personal Blog'
+description:      'Temp description'
+url:              http://chrisfrederickson.me
+
+author:
+  name:           'Christopher Frederickson'
+  url:            https://twitter.com/chrisfreder
+
+paginate:         5
+
+github:
+  repo:           https://github.com/chrisfrederickson/chrisfrederickson.github.io
